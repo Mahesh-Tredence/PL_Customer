@@ -1,0 +1,9 @@
+{
+    "PROJECT_ID": "prj-0n-dta-pt-ai-sandbox",
+    "TRANSFER_JOBS": "transferJobs/job_sts_location",
+    "DAG_ID": "trigger_location_daily",
+    "DESCRIPTION": "Trigger location GCS Transfer Service jobs daily",
+    "SCHEDULE_INTERVAL": "NONE",
+    "START_DATE": "1/1/2025",
+    "TAGS": ["STS", "Location", "daily"]
+}
